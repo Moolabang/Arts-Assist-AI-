@@ -1,8 +1,8 @@
-# Creative Impact AI
+# Arts Assist AI
 
 ## Overview
 
-Creative Impact AI is an AI-powered productivity assistant designed to support arts and cultural organizations. The platform helps organizations transform project information, event details, and community impact data into professional reports, awareness articles, and funding-support content.
+Arts Assist AI is an AI-powered productivity assistant designed to support arts and cultural organizations. The platform helps organizations transform project information, event details, and community impact data into professional reports, awareness articles, and funding-support content.
 
 The goal is to improve visibility, communication, and productivity while helping organizations better demonstrate their impact to stakeholders, sponsors, and funding bodies.
 
@@ -24,7 +24,7 @@ These tasks can be time-consuming and resource-intensive, especially for organiz
 
 ## Solution
 
-Creative Impact AI uses Artificial Intelligence to automate content creation and reporting processes.
+  Arts Assist AI uses Artificial Intelligence to automate content creation and reporting processes.
 
 The platform enables users to generate:
 
